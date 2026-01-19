@@ -15,7 +15,7 @@
     "@markedjs/html-differ": "^3.0.4",
     "cheerio": "^1.0.0-rc.10",
     "elm": "latest-0.19.1",
-    "elm-format": "^0.8.5",
+    "elm-format": "^0.8.8",
     "elm-hot": "^1.0.1",
     "elm-review": "^2.12.0",
     "elm-test": "^0.19.1-revision10",
